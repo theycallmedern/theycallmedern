@@ -4,7 +4,11 @@
 
 Business analyst and builder focused on product clarity, clean flows, and practical automation.
 
-<a href="https://github.com/theycallmedern/instagram-followback-checker"><img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="16" height="16" align="absmiddle" /> Instagram Followback</a> | <a href="https://github.com/theycallmedern/ZJU-Schedule-Bot"><img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="16" height="16" align="absmiddle" /> ZJU Schedule Bot</a>
+<h2 align="center">
+  <a href="https://github.com/theycallmedern/instagram-followback-checker"><img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="28" height="28" align="absmiddle" /> Instagram Followback</a>
+  |
+  <a href="https://github.com/theycallmedern/ZJU-Schedule-Bot"><img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="28" height="28" align="absmiddle" /> ZJU Schedule Bot</a>
+</h2>
 
 </div>
 
@@ -19,7 +23,7 @@ Right now, my public work is centered around two product-style projects:
 
 ## Featured Projects
 
-### <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="20" height="20" align="absmiddle" /> Instagram Followback
+## <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="28" height="28" align="absmiddle" /> Instagram Followback
 
 A local-first desktop product for checking Instagram followback relationships without relying on a hosted backend.
 
@@ -41,7 +45,7 @@ Repository:
   <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/hero-workspace.png" alt="Instagram Followback desktop workspace" width="700" />
 </p>
 
-### <img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="20" height="20" align="absmiddle" /> ZJU Schedule Bot
+## <img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="28" height="28" align="absmiddle" /> ZJU Schedule Bot
 
 A Telegram bot for ZJU language-program schedules, reminders, and day-to-day timetable checks.
 
