@@ -23,7 +23,7 @@ Right now, my public work is centered around two product-style projects:
 
 ## Featured Projects
 
-## <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="28" height="28" align="absmiddle" /> Instagram Followback
+<h1><img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="40" height="40" align="absmiddle" /> Instagram Followback</h1>
 
 A local-first desktop product for checking Instagram followback relationships without relying on a hosted backend.
 
@@ -45,7 +45,7 @@ Repository:
   <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/hero-workspace.png" alt="Instagram Followback desktop workspace" width="700" />
 </p>
 
-## <img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="28" height="28" align="absmiddle" /> ZJU Schedule Bot
+<h1><img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="40" height="40" align="absmiddle" /> ZJU Schedule Bot</h1>
 
 A Telegram bot for ZJU language-program schedules, reminders, and day-to-day timetable checks.
 
