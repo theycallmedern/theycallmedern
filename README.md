@@ -28,6 +28,20 @@ Repository:
 
 **[ZJU Schedule Bot](https://github.com/theycallmedern/ZJU-Schedule-Bot)**
 
+#### Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/group-selection.png" alt="ZJU Schedule Bot group selection" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/today-view.png" alt="ZJU Schedule Bot today view" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/inline-settings.png" alt="ZJU Schedule Bot inline settings" width="240" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/evening-preview.png" alt="ZJU Schedule Bot evening preview" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/today-with-note.png" alt="ZJU Schedule Bot lesson notes" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/favorites-view.png" alt="ZJU Schedule Bot favorites" width="240" />
+</p>
+
 ### Instagram Followback
 
 A local web app and CLI for checking Instagram followback relationships with a private live-session workflow.
@@ -45,18 +59,11 @@ Repository:
 
 **[Instagram Followback](https://github.com/theycallmedern/instagram-followback-checker)**
 
-## Preview
+#### Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/group-selection.png" alt="ZJU Schedule Bot group selection" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/today-view.png" alt="ZJU Schedule Bot today view" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/overview.png" alt="Instagram Followback overview" width="240" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/inline-settings.png" alt="ZJU Schedule Bot inline settings" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/evening-preview.png" alt="ZJU Schedule Bot evening preview" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/results.png" alt="Instagram Followback results" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/overview.png" alt="Instagram Followback overview" width="320" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/results.png" alt="Instagram Followback results" width="320" />
 </p>
 
 ## Stack
