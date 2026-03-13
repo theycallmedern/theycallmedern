@@ -2,19 +2,50 @@
 
 # Misha Belyakov
 
-Building practical tools with a focus on product clarity and clean user flows.
+Business analyst and builder focused on product clarity, clean flows, and practical automation.
 
-[ZJU Schedule Bot](https://github.com/theycallmedern/ZJU-Schedule-Bot) • [Instagram Followback](https://github.com/theycallmedern/instagram-followback-checker)
+<a href="https://github.com/theycallmedern/instagram-followback-checker"><img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="16" height="16" align="absmiddle" /> Instagram Followback</a> | <a href="https://github.com/theycallmedern/ZJU-Schedule-Bot"><img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="16" height="16" align="absmiddle" /> ZJU Schedule Bot</a>
 
 </div>
 
+## Current Focus
+
+I like turning messy everyday workflows into tools that feel simple, fast, and understandable.
+
+Right now, my public work is centered around two product-style projects:
+
+- **Instagram Followback**: a local-first desktop app for understanding Instagram follow relationships with a private live-session workflow
+- **ZJU Schedule Bot**: a Telegram bot for schedules, reminders, and group switching for ZJU language-program students
+
 ## Featured Projects
 
-### ZJU Schedule Bot
+### <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="20" height="20" align="absmiddle" /> Instagram Followback
 
-A Telegram bot for ZJU language-program schedules, built on Cloudflare Workers with pure JavaScript.
+A local-first desktop product for checking Instagram followback relationships without relying on a hosted backend.
 
-It is designed for fast everyday use inside Telegram and includes:
+It combines a Tauri desktop shell with Python + Playwright automation and is built around a simple private workflow:
+
+- connect one real Instagram session locally
+- run live background scans
+- review `Non-followers`, `Fans`, `Mutuals`, search results, and diagnostics in one workspace
+- keep the session and analysis flow on your own machine
+- fall back to browser UI and CLI when needed
+
+Repository:
+
+**[Instagram Followback](https://github.com/theycallmedern/instagram-followback-checker)**
+
+#### Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/hero-workspace.png" alt="Instagram Followback desktop workspace" width="700" />
+</p>
+
+### <img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="20" height="20" align="absmiddle" /> ZJU Schedule Bot
+
+A Telegram bot for ZJU language-program schedules, reminders, and day-to-day timetable checks.
+
+It is built on Cloudflare Workers with JavaScript and focuses on fast daily use inside Telegram:
 
 - `Today`, `Tomorrow`, `Full week`, and `Next class`
 - lesson reminders
@@ -42,30 +73,6 @@ Repository:
   <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/favorites-view.png" alt="ZJU Schedule Bot favorites" width="240" />
 </p>
 
-### Instagram Followback
-
-A local web app and CLI for checking Instagram followback relationships with a private live-session workflow.
-
-It uses a visible Playwright browser session and focuses on a local-first experience:
-
-- live scan of current `followers` and `following`
-- `Non-followers`, `Fans`, and `Mutuals`
-- search, inspect, ignore list, and local history
-- `CSV`, `TXT`, and `JSON` exports
-- connect / disconnect local Instagram session
-- no cloud backend for the live workflow
-
-Repository:
-
-**[Instagram Followback](https://github.com/theycallmedern/instagram-followback-checker)**
-
-#### Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/overview.png" alt="Instagram Followback overview" width="320" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/results.png" alt="Instagram Followback results" width="320" />
-</p>
-
 ## Stack
 
-`JavaScript` • `Python` • `Cloudflare Workers` • `Cloudflare D1` • `Telegram Bot API` • `Playwright` • `Local Web UI`
+`Python` • `JavaScript` • `Tauri` • `Cloudflare Workers` • `Cloudflare D1` • `Playwright` • `Telegram Bot API`
