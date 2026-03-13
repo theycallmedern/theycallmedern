@@ -2,64 +2,63 @@
 
 # Misha Belyakov
 
-Building practical bots and product-focused tools with an emphasis on clarity, speed, and maintainable architecture.
+Building practical tools with a focus on product clarity and clean user flows.
 
-[Featured project](https://github.com/theycallmedern/ZJU-Schedule-Bot) • [Profile repository](https://github.com/theycallmedern/theycallmedern)
+[ZJU Schedule Bot](https://github.com/theycallmedern/ZJU-Schedule-Bot) • [Instagram Followback](https://github.com/theycallmedern/instagram-followback-checker)
 
 </div>
 
-## Featured Project
+## Featured Projects
 
 ### ZJU Schedule Bot
 
-A Telegram schedule bot for ZJU language-program groups, built on Cloudflare Workers with pure JavaScript.
+A Telegram bot for ZJU language-program schedules, built on Cloudflare Workers with pure JavaScript.
 
-It is designed as a real everyday product, not just a utility script:
+It is designed for fast everyday use inside Telegram and includes:
 
-- fast daily schedule access
-- reminders before lessons
-- morning digests and evening previews
+- `Today`, `Tomorrow`, `Full week`, and `Next class`
+- lesson reminders
+- morning digest and evening preview
 - favorite groups
 - personal lesson notes
-- inline settings flow
-- RU / EN / ZH support
+- inline settings
+- `RU / EN / ZH` interface
 
 Repository:
 
 **[ZJU Schedule Bot](https://github.com/theycallmedern/ZJU-Schedule-Bot)**
 
-## Product Preview
+### Instagram Followback
+
+A local web app and CLI for checking Instagram followback relationships with a private live-session workflow.
+
+It uses a visible Playwright browser session and focuses on a local-first experience:
+
+- live scan of current `followers` and `following`
+- `Non-followers`, `Fans`, and `Mutuals`
+- search, inspect, ignore list, and local history
+- `CSV`, `TXT`, and `JSON` exports
+- connect / disconnect local Instagram session
+- no cloud backend for the live workflow
+
+Repository:
+
+**[Instagram Followback](https://github.com/theycallmedern/instagram-followback-checker)**
+
+## Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/group-selection.png" alt="Group selection" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/today-view.png" alt="Today view" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/inline-settings.png" alt="Inline settings" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/group-selection.png" alt="ZJU Schedule Bot group selection" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/today-view.png" alt="ZJU Schedule Bot today view" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/overview.png" alt="Instagram Followback overview" width="240" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/evening-preview.png" alt="Evening preview" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/today-with-note.png" alt="Lesson notes" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/favorites-view.png" alt="Favorites view" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/inline-settings.png" alt="ZJU Schedule Bot inline settings" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/evening-preview.png" alt="ZJU Schedule Bot evening preview" width="240" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/results.png" alt="Instagram Followback results" width="240" />
 </p>
 
-## What I Like Building
+## Stack
 
-- user-facing tools that are actually pleasant to use
-- Telegram bots with clean flows and real utility
-- small products with clear structure and low operational friction
-- systems that stay readable as they grow
-
-## Working Style
-
-- product-first thinking
-- pragmatic architecture
-- minimal stack when possible
-- conservative changes in production code
-
-## Stack I Work With
-
-`JavaScript` • `Cloudflare Workers` • `Cloudflare D1` • `Telegram Bot API` • `Webhooks` • `Cron Triggers`
-
-## Current Focus
-
-Right now the main focus is on making **ZJU Schedule Bot** cleaner, faster, and easier to maintain while keeping the user experience lightweight inside Telegram.
+`JavaScript` • `Python` • `Cloudflare Workers` • `Cloudflare D1` • `Telegram Bot API` • `Playwright` • `Local Web UI`
