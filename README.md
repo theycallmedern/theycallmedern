@@ -2,68 +2,63 @@
 
 # Misha Belyakov
 
-Business analyst and builder focused on product clarity, clean flows, and practical automation.
+Product-minded builder focused on clear workflows, local-first tools, and practical automation.
 
-<h2 align="center">
-  <a href="https://github.com/theycallmedern/instagram-followback-checker"><img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="28" height="28" align="absmiddle" /> Instagram Followback</a>
-  |
-  <a href="https://github.com/theycallmedern/ZJU-Schedule-Bot"><img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="28" height="28" align="absmiddle" /> ZJU Schedule Bot</a>
-</h2>
+<p>
+  <a href="https://github.com/theycallmedern/instagram-followback-checker">Instagram Followback</a>
+  ·
+  <a href="https://github.com/theycallmedern/ZJU-Schedule-Bot">ZJU Schedule Bot</a>
+</p>
 
 </div>
 
-## Current Focus
+## About
 
-I like turning messy everyday workflows into tools that feel simple, fast, and understandable.
+I like turning repetitive, messy tasks into products that feel calm, obvious, and dependable.
 
-Right now, my public work is centered around two product-style projects:
+Most of my public work sits at the intersection of product design, automation, and developer tooling: tools that solve a narrow problem well, with a strong emphasis on clarity, local control, and day-to-day usability.
 
-- **Instagram Followback**: a local-first desktop app for understanding Instagram follow relationships with a private live-session workflow
-- **ZJU Schedule Bot**: a Telegram bot for schedules, reminders, and group switching for ZJU language-program students
+> [!NOTE]
+> Current focus: product-style tools with simple interfaces, clean operational behavior, and minimal unnecessary infrastructure.
 
-## Featured Projects
+## Featured Work
 
-<h1><img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="40" height="40" align="absmiddle" /> Instagram Followback</h1>
+### <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="26" height="26" align="absmiddle" /> Instagram Followback
 
-A local-first desktop product for checking Instagram followback relationships without relying on a hosted backend.
+Local-first desktop app for reviewing Instagram non-followers, fans, mutuals, and saved scan history.
 
-It combines a Tauri desktop shell with Python + Playwright automation and is built around a simple private workflow:
+Built with `Tauri`, `Rust`, `Python`, and `Playwright`, it is designed around a private local workflow:
 
-- connect one real Instagram session locally
-- run live background scans
-- review `Non-followers`, `Fans`, `Mutuals`, search results, and diagnostics in one workspace
-- keep the session and analysis flow on your own machine
-- fall back to browser UI and CLI when needed
+- connect a real Instagram session locally
+- run live scans without relying on a hosted backend
+- review non-followers, fans, mutuals, diagnostics, and history in one workspace
+- keep session data and reports on the user machine
 
-Repository:
+Links:
 
-**[Instagram Followback](https://github.com/theycallmedern/instagram-followback-checker)**
-
-#### Preview
+- Repository: [theycallmedern/instagram-followback-checker](https://github.com/theycallmedern/instagram-followback-checker)
+- Latest release: [Download desktop builds](https://github.com/theycallmedern/instagram-followback-checker/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/hero-workspace.png" alt="Instagram Followback desktop workspace" width="700" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/hero-workspace.png" alt="Instagram Followback desktop workspace" width="760" />
 </p>
 
-<h1><img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="40" height="40" align="absmiddle" /> ZJU Schedule Bot</h1>
+### <img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="26" height="26" align="absmiddle" /> ZJU Schedule Bot
 
-A Telegram bot for ZJU language-program schedules, reminders, and day-to-day timetable checks.
+Telegram bot for ZJU language-program schedules, reminders, and quick timetable checks.
 
-It is built on Cloudflare Workers with JavaScript and focuses on fast daily use inside Telegram:
+Built on `Cloudflare Workers` and `D1`, it focuses on fast daily use inside Telegram:
 
 - `Today`, `Tomorrow`, `Full week`, and `Next class`
-- lesson reminders
-- morning digest and evening preview
-- favorite groups
-- personal lesson notes
-- inline settings
-- `RU / EN / ZH` interface
+- lesson reminders and daily digests
+- group switching and favorites
+- lesson notes and inline settings
+- multilingual interface: `RU / EN / ZH`
 
-Repository:
+Links:
 
-**[ZJU Schedule Bot](https://github.com/theycallmedern/ZJU-Schedule-Bot)**
-
-#### Preview
+- Repository: [theycallmedern/ZJU-Schedule-Bot](https://github.com/theycallmedern/ZJU-Schedule-Bot)
+- Bot: [t.me/ZJUScheduleBot](https://t.me/ZJUScheduleBot)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/group-selection.png" alt="ZJU Schedule Bot group selection" width="240" />
@@ -71,12 +66,13 @@ Repository:
   <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/inline-settings.png" alt="ZJU Schedule Bot inline settings" width="240" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/evening-preview.png" alt="ZJU Schedule Bot evening preview" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/today-with-note.png" alt="ZJU Schedule Bot lesson notes" width="240" />
-  <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/favorites-view.png" alt="ZJU Schedule Bot favorites" width="240" />
-</p>
+## Working Style
+
+- product-first thinking over feature sprawl
+- preference for local-first or low-infrastructure architectures where they make sense
+- strong bias toward simple UX, clear copy, and operational reliability
+- interest in tools that are useful every day, not just technically interesting
 
 ## Stack
 
-`Python` • `JavaScript` • `Tauri` • `Cloudflare Workers` • `Cloudflare D1` • `Playwright` • `Telegram Bot API`
+`Python` · `JavaScript` · `Rust` · `Tauri` · `Playwright` · `Cloudflare Workers` · `Cloudflare D1` · `Telegram Bot API`
