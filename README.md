@@ -8,6 +8,8 @@ Product-minded builder focused on clear workflows, local-first tools, and practi
   <a href="https://github.com/theycallmedern/instagram-followback-checker">Instagram Followback</a>
   ·
   <a href="https://github.com/theycallmedern/ZJU-Schedule-Bot">ZJU Schedule Bot</a>
+  ·
+  <a href="https://github.com/theycallmedern/uni-market">UniMarket</a>
 </p>
 
 </div>
@@ -66,6 +68,27 @@ Links:
   <img src="https://raw.githubusercontent.com/theycallmedern/ZJU-Schedule-Bot/main/docs/screenshots/inline-settings.png" alt="ZJU Schedule Bot inline settings" width="240" />
 </p>
 
+### <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/miniprogram/assets/brand/unimarket-logo.png" alt="UniMarket icon" width="26" height="26" align="absmiddle" /> UniMarket
+
+Marketplace MVP for international students in Hangzhou, built as a backend-enabled WeChat Mini Program.
+
+Built with `JavaScript`, `WXML`, `WXSS`, `Cloudflare Workers`, `D1`, and `KV`, it focuses on productizing student buying and selling:
+
+- category-first marketplace browsing
+- seller profiles, reviews, and Seller Pro surfaces
+- listing creation, edits, drafts, and inventory states
+- moderation-ready backend boundaries and signed media uploads
+
+Links:
+
+- Repository: [theycallmedern/uni-market](https://github.com/theycallmedern/uni-market)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/home-feed.png" alt="UniMarket home feed" width="220" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/listing-detail.png" alt="UniMarket listing detail" width="220" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/seller-profile.png" alt="UniMarket seller profile" width="220" />
+</p>
+
 ## Working Style
 
 - product-first thinking over feature sprawl
@@ -75,4 +98,4 @@ Links:
 
 ## Stack
 
-`Python` · `JavaScript` · `Rust` · `Tauri` · `Playwright` · `Cloudflare Workers` · `Cloudflare D1` · `Telegram Bot API`
+`Python` · `JavaScript` · `Rust` · `Tauri` · `WeChat Mini Program` · `Playwright` · `Cloudflare Workers` · `Cloudflare D1` · `Cloudflare KV` · `Telegram Bot API`
