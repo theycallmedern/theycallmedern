@@ -42,8 +42,14 @@ Links:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/home-feed.png" alt="UniMarket home feed" width="220" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/items-category.png" alt="UniMarket category browsing" width="220" />
   <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/listing-detail.png" alt="UniMarket listing detail" width="220" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/seller-profile.png" alt="UniMarket seller profile" width="220" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/profile-hub.png" alt="UniMarket profile hub" width="220" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/uni-market/main/docs/screenshots/create-listing.png" alt="UniMarket create listing flow" width="220" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/branding/readme-app-icon.png" alt="Instagram Followback icon" width="26" height="26" align="absmiddle" /> Instagram Followback
