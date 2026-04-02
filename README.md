@@ -69,7 +69,7 @@ Links:
 - Latest release: [Download desktop builds](https://github.com/theycallmedern/instagram-followback-checker/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/hero-workspace.png" alt="Instagram Followback desktop workspace" width="760" />
+  <img src="https://raw.githubusercontent.com/theycallmedern/instagram-followback-checker/main/docs/screenshots/hero-workspace.png" alt="Instagram Followback laptop hero mockup" width="820" />
 </p>
 
 ### <img src="./assets/zju-schedule-bot-icon.png" alt="ZJU Schedule Bot icon" width="26" height="26" align="absmiddle" /> ZJU Schedule Bot
